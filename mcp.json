@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "proposal-biz": {
+      "type": "http",
+      "url": "https://app.proposal.biz/api/mcp"
+    }
+  }
+}

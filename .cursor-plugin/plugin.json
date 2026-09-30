@@ -1,0 +1,35 @@
+{
+  "name": "proposal-biz",
+  "displayName": "Proposal.biz for Grok Bot",
+  "version": "1.0.0",
+  "description": "Create business proposals, statements of work, contracts, NDAs, and pitch decks from Grok Bot. Generate structured business documents with Proposal.biz, then open them in the Proposal.biz builder for further editing and refinement using its interactive document designer.",
+  "author": {
+    "name": "Proposal.biz",
+    "email": "hello@proposal.biz"
+  },
+  "homepage": "https://www.proposal.biz",
+  "repository": "https://github.com/proposal-biz/mcp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "proposal-biz-grok-bot",
+    "grok-bot-mcp",
+    "proposal-biz-mcp",
+    "proposals",
+    "free-proposal-generator",
+    "ai-proposals",
+    "proposal-software",
+    "business-documents",
+    "document-automation",
+    "statements-of-work",
+    "sow",
+    "contracts",
+    "nda",
+    "pitch-decks",
+    "sales",
+    "sales-enablement",
+    "agencies",
+    "consulting",
+    "proposal-biz"
+  ]
+}
