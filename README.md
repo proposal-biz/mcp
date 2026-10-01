@@ -197,6 +197,7 @@ If using API-key authentication, treat the `pbz_` API key as a secret credential
 **Proposal.Biz:** `https://proposal.biz`
 **Proposal.Biz App:** `https://app.proposal.biz`
 **Proposal.Biz MCP endpoint:** `https://app.proposal.biz/api/mcp`
+**Listed in the [Claude Market MCP directory]** `https://www.claudemarket.ai/mcp`
 
 ## License
 
